@@ -1,0 +1,28 @@
+buka folder projectnya, klik git bash here
+
+terus git init
+
+terus git config user.name "masukin username"
+
+terus git config user.email "ayundads20@gmail.com"
+
+terus git remote add origin https://github.com/ayundadwis/warehouse-project.git
+
+kalo ada nambah-nambah atau ubah ubah, jgn lupa sync ke repositorynya.
+
+git add -A
+
+git commit -m "yg diubah apa"
+
+git push -u origin master
+
+kalo mau narik repository (kalo temen habis buat perubahan)
+git pull
+
+terus kalo udah git pull otomatis folder yg kita punya berubah.
+
+
+
+
+
+ 
