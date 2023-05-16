@@ -1,0 +1,6 @@
+kalo mau ngerjain jangan lupa git pull dulu
+kall udah kelar ngerjain jangan lupa git push
+git add -A
+git commit -m ".."
+git push
+
