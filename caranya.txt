@@ -20,6 +20,7 @@ kalo mau narik repository (kalo temen habis buat perubahan)
 git pull
 
 terus kalo udah git pull otomatis folder yg kita punya berubah.
+pokoknya git pull sama git push doang jangan lupa
 
 
 
